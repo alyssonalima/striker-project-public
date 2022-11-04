@@ -5,7 +5,7 @@ A 2D RPG project made with GML.
 
 | Releases 	| Status 	|
 |:---:	|----------	|
-| Stable 	| [![Latest Release](https://img.shields.io/github/downloads/alyssonalima/striker-project/latest/total)](https://github.com/alyssonalima/striker-project/releases/download/v0.1.0/STRIKER.zip) |
+| Stable 	| [![Latest Release](https://img.shields.io/github/downloads/alyssonalima/striker-project-public/latest/total)](https://github.com/alyssonalima/striker-project/releases/download/v0.1.0/STRIKER.zip) |
 
 # General Controls
 
